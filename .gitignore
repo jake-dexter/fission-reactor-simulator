@@ -1,0 +1,18 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Build and distribution
+*.so
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints
+*.nbconvert.ipynb
+
+# Virtual environments
+venv/
+.env/
+.venv/

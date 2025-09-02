@@ -56,7 +56,7 @@ python Fission_Reactor.ipynb
 (Requires Jupyter Notebook and Python 3.10+)  
 
 ## Documentation  
-The full written report is included in `/docs/PHYS205_Long_Project_Report.pdf` and explains the physics, methods, and results in detail.  
+The full written report is included in `/docs/Report.pdf` and explains the physics, methods, and results in detail.  
 
 ## Status  
 Educational visualisation project (completed as part of a group).  
